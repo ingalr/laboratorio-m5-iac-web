@@ -1,0 +1,3 @@
+Origen: inventario AS-IS de TelcoAndina
+Sitios conocidos: BOG-EDGE-01, MED-EDGE-01
+Estado: documento existente consultado en modo lectura

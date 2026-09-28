@@ -1,0 +1,7 @@
+resource "terraform_data" "legacy_site" {
+  input = {
+    source              = "brownfield"
+    adoption_decision   = "manage"
+    owner               = "edge-operations"
+  }
+}

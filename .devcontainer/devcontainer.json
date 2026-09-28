@@ -1,0 +1,28 @@
+{
+  "name": "M5 IaC Web — OpenTofu 1.12.6",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "remoteUser": "vscode",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "gamunu.opentofu"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "files.eol": "\n",
+        "[terraform]": {
+          "editor.defaultFormatter": "gamunu.opentofu",
+          "editor.formatOnSave": false
+        },
+        "[terraform-vars]": {
+          "editor.defaultFormatter": "gamunu.opentofu",
+          "editor.formatOnSave": false
+        }
+      }
+    }
+  },
+  "postCreateCommand": "bash .devcontainer/verify-environment.sh"
+}
