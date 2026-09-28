@@ -3,7 +3,7 @@
 Realice esta comprobación antes de la clase. No avance el laboratorio.
 
 1. Inicie sesión en su cuenta personal de GitHub.
-2. Abra el enlace de GitHub Codespaces entregado por la instructora.
+2. Abra [el laboratorio en GitHub Codespaces](https://codespaces.new/ingalr/laboratorio-m5-iac-web?quickstart=1).
 3. Cree o reanude su Codespace individual.
 4. Espere a que VS Code Web termine de preparar el ambiente.
 5. Abra **Terminal → New Terminal**.
