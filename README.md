@@ -1,6 +1,7 @@
 # Laboratorio M5 — De ClickOps a infraestructura como código
 
 **Guía de entorno web | GitHub Codespaces | OpenTofu 1.12.6 | Práctica individual**
+[![Abrir laboratorio en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ingalr/laboratorio-m5-iac-web?quickstart=1)
 
 Este repositorio acompaña el laboratorio M5 y se ejecuta completamente desde el navegador. Cada estudiante debe crear su propio GitHub Codespace; no se comparten archivos de state, planes ni objetos generados.
 
